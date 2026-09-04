@@ -1,0 +1,21 @@
+job_id,title,company,category,required_skills,description
+1,Frontend Developer,TechWave Solutions,Web Development,"javascript, react, html, css, git","Build responsive user interfaces for our SaaS dashboard product. Work closely with designers to implement pixel-perfect, accessible UI components."
+2,Backend Developer (Node.js),Bright Apps Inc,Web Development,"javascript, node.js, express, mongodb, rest api",Design and maintain REST APIs powering our mobile and web clients. Own database schema design and API performance.
+3,Full Stack Developer,Nimbus Softworks,Web Development,"javascript, react, node.js, sql, html, css",Ship end-to-end features across our React frontend and Node backend for a fast-growing fintech product.
+4,Junior Web Developer,StartUp Hub,Web Development,"html, css, javascript, git, responsive design",Entry-level role building marketing pages and small web apps for early-stage startup clients.
+5,Backend Developer (Python/Django),CoreStack Technologies,Web Development,"python, django, sql, rest api, git",Maintain and extend a Django monolith serving a B2B logistics platform. Focus on API reliability and data integrity.
+6,Data Analyst,InsightMetrics,Data Science,"python, pandas, sql, excel, data visualization",Turn raw operational data into dashboards and reports that drive weekly business decisions for stakeholders.
+7,Data Scientist,QuantEdge Analytics,Data Science,"python, pandas, scikit-learn, machine learning, statistics",Build predictive models for customer churn and pricing optimization using structured transactional data.
+8,Business Intelligence Analyst,Clarity Consulting,Data Science,"sql, power bi, excel, data visualization, python",Design BI dashboards and automate recurring reporting for enterprise clients across retail and healthcare.
+9,Data Engineer,Pipeline Systems,Data Science,"python, sql, etl, airflow, cloud",Build and maintain ETL pipelines feeding our analytics warehouse. Experience with orchestration tools is a plus.
+10,Android Developer,Mobify Labs,Mobile Development,"java, kotlin, android sdk, xml, git",Develop and maintain native Android features for a consumer productivity app with 500k+ installs.
+11,iOS Developer,Appventure Studio,Mobile Development,"swift, xcode, ios sdk, git, ui design","Build polished native iOS experiences for a health-and-fitness app, working closely with product design."
+12,Cross-Platform Mobile Developer,Flutterly Apps,Mobile Development,"flutter, dart, firebase, git, rest api",Own features across our single Flutter codebase shipping to both iOS and Android for a social app.
+13,React Native Developer,Hybridtech,Mobile Development,"javascript, react native, redux, rest api, git",Build cross-platform mobile features for an e-commerce client using React Native and Redux.
+14,AI/Automation Engineer,AutomateNow Inc,AI & Automation,"python, rpa, api integration, automation, sql",Automate repetitive business workflows using RPA tools and Python scripts integrated with internal APIs.
+15,NLP Engineer,LinguaTech AI,AI & Automation,"python, nlp, transformers, machine learning, pytorch",Develop text classification and sentiment models for a customer feedback analytics product.
+16,Machine Learning Engineer,NeuralWorks AI,AI & Automation,"python, tensorflow, pytorch, machine learning, deployment","Take ML models from notebook to production, including deployment and monitoring pipelines."
+17,Computer Vision Engineer,VisionaryAI,AI & Automation,"python, opencv, deep learning, pytorch, computer vision",Build image classification and object detection models for a manufacturing quality-inspection product.
+18,DevOps/Automation Engineer,CloudOps Inc,AI & Automation,"python, docker, ci/cd, aws, automation",Automate deployment pipelines and infrastructure provisioning for a growing SaaS engineering team.
+19,AI Product Intern (Generative AI),The Skillians,AI & Automation,"python, llm, prompt engineering, api integration, streamlit","Prototype and ship generative AI features end-to-end, from data pipeline to a deployed Streamlit demo."
+20,Python Automation Developer,Workflowly Tech,AI & Automation,"python, pandas, automation, api integration, sql",Build internal tools that automate data cleaning and reporting workflows across the ops team.
